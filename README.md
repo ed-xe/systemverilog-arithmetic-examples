@@ -1,4 +1,6 @@
-# Sample addition RTL
+# special-train-rtl
+
+## Sample addition RTL
 
 `addition.sv` defines a synthesizable, parameterized unsigned adder. `sum` contains the low `WIDTH` result bits, and `carry_out` contains the carry bit. The default width is 8 bits. `tb_addition.sv` checks all 256 pairs of 4-bit inputs and writes signal activity to `addition.vcd`.
 
