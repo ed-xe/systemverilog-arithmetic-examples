@@ -1,4 +1,4 @@
-# special-train-rtl
+systemverilog-arithmetic-examples
 
 The sample unsigned adder RTL, self-checking testbench, and Verilator Makefile are in [addition/](addition/).
 
